@@ -1,15 +1,18 @@
 <p align="center">
   <a href="https://www.samfaid.com/">
-    <img src="https://img.shields.io/badge/samfaid.com-111111?style=flat-square&logo=safari&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/samfaid/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sam%20Faid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Xzese?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Xzese?style=flat-square&logo=github&label=Stars&affiliations=OWNER" alt="Total GitHub stars">
+    <img src="https://img.shields.io/github/stars/Xzese?style=for-the-badge&logo=github&label=Stars&affiliations=OWNER" alt="Total GitHub stars">
+  </a>
+  <a href="https://github.com/Xzese?tab=followers">
+    <img src="https://img.shields.io/github/followers/Xzese?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
   </a>
   <a href="https://snapheaven.co.uk/">
-    <img src="https://img.shields.io/badge/Snap%20Heaven-Co--founder-222222?style=flat-square" alt="Snap Heaven">
+    <img src="https://img.shields.io/badge/Snap%20Heaven-D27C9D?style=for-the-badge" alt="Snap Heaven">
   </a>
 </p>
 
