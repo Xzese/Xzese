@@ -5,11 +5,14 @@ Software developer in the UK. I build privacy-first apps, developer tools, autom
 I like to take products from an initial idea through architecture, development, testing, deployment, and long-term support. My work ranges from native Apple apps and local AI to Python automation, Cloudflare systems, MCP tooling, and the software behind physical products.
 
 <p>
-  <a href="https://samfaid.com/">
+  <a href="https://www.samfaid.com/">
     <img src="https://img.shields.io/badge/Website-samfaid.com-111111?style=flat-square" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/samfaid/">
     <img src="https://img.shields.io/badge/LinkedIn-Sam%20Faid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Xzese?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Xzese?style=flat-square&affiliations=OWNER" alt="Total GitHub stars">
   </a>
   <a href="https://snapheaven.co.uk/">
     <img src="https://img.shields.io/badge/Snap%20Heaven-Founder--builder-222222?style=flat-square" alt="Snap Heaven">
@@ -22,13 +25,13 @@ I like to take products from an initial idea through architecture, development, 
 
 A privacy-first audiobook player for iPhone, iPad, and Apple Watch. It is designed around user-owned audio, offline playback, local library management, and a native Apple-platform experience.
 
-[Learn more on samfaid.com](https://samfaid.com/audiobookecho/)
+[Learn more on samfaid.com](https://www.samfaid.com/audiobookecho/)
 
 ### Saventia AI
 
 A private, on-device AI chat application built with SwiftUI, SwiftData, and Apple's Foundation Models. Conversations and model processing stay on the user's device.
 
-[Learn more on samfaid.com](https://samfaid.com/saventia-ai/)
+[Learn more on samfaid.com](https://www.samfaid.com/saventia-ai/)
 
 ### Snap Heaven
 
@@ -48,7 +51,7 @@ I co-founded and build the technology behind Snap Heaven, a permanent photobooth
 | [SwiftChangeView](https://github.com/Xzese/SwiftChangeView) | Lightweight SwiftUI component for What's New and changelog screens backed by JSON. | Swift, SwiftUI |
 | [Sonarr-Delete-Watched-Episodes](https://github.com/Xzese/Sonarr-Delete-Watched-Episodes) | Removes watched Plex or Jellyfin episodes from Sonarr after configurable retention rules. | Python, Sonarr, Plex, Jellyfin |
 | [Smart-Display-App](https://github.com/Xzese/Smart-Display-App) | Smart display with time, weather, and Instagram follower information. | Python, Facebook Graph API, Weather API |
-| [FB_Graph_Local_Auth](https://github.com/Xzese/FB_Graph_Local_Auth) | Local authentication server for Facebook and Instagram Graph API workflows. | Python, Facebook Graph API, OAuth |
+| [Local-Facebook-OAuth-helper](https://github.com/Xzese/Local-Facebook-OAuth-helper) | Local authentication server for Facebook and Instagram Graph API workflows. | Python, Facebook Graph API, OAuth |
 | [Post_To_Instagram](https://github.com/Xzese/Post_To_Instagram) | Automates image publishing to Instagram Business accounts using the Graph API and S3-compatible storage. | Python, Instagram Graph API, S3 / R2 |
 
 ## Technologies
@@ -76,6 +79,6 @@ If you find one of my projects useful or want to support continued development:
 
 ## Links
 
-- [Website](https://samfaid.com/)
+- [Website](https://www.samfaid.com/)
 - [LinkedIn](https://www.linkedin.com/in/samfaid/)
 - [All public repositories](https://github.com/Xzese?tab=repositories)
