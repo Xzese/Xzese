@@ -24,7 +24,7 @@ I like to take products from an initial idea through architecture, development, 
 ### AudioBookEcho
 
 <a href="https://www.samfaid.com/audiobookecho/">
-  <img src="https://www.samfaid.com/assets/images/audiobookecho.webp" width="220" alt="AudioBookEcho">
+  <img align="right" src="https://www.samfaid.com/assets/images/audiobookecho.webp" width="150" alt="AudioBookEcho">
 </a>
 
 A privacy-first audiobook player for iPhone, iPad, and Apple Watch. It is designed around user-owned audio, offline playback, local library management, and a native Apple-platform experience.
@@ -34,7 +34,7 @@ A privacy-first audiobook player for iPhone, iPad, and Apple Watch. It is design
 ### Saventia AI
 
 <a href="https://www.samfaid.com/saventia-ai/">
-  <img src="https://www.samfaid.com/assets/images/saventia.webp" width="220" alt="Saventia AI">
+  <img align="right" src="https://www.samfaid.com/assets/images/saventia.webp" width="150" alt="Saventia AI">
 </a>
 
 A private, on-device AI chat application built with SwiftUI, SwiftData, and Apple's Foundation Models. Conversations and model processing stay on the user's device.
@@ -44,7 +44,7 @@ A private, on-device AI chat application built with SwiftUI, SwiftData, and Appl
 ### Snap Heaven
 
 <a href="https://www.samfaid.com/snap-heaven/">
-  <img src="https://www.samfaid.com/assets/images/snap-heaven-watt-bar-card.webp" width="320" alt="Snap Heaven photobooth at Watt Bar">
+  <img align="right" src="https://www.samfaid.com/assets/images/snap-heaven-watt-bar-card.webp" width="180" alt="Snap Heaven photobooth at Watt Bar">
 </a>
 
 I co-founded and build the technology behind Snap Heaven, a permanent photobooth business for hospitality venues. My work covers kiosk software, payments, cameras, printing, cloud services, monitoring, deployment, and the physical guest experience.
