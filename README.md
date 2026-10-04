@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.samfaid.com/"><img src="https://www.samfaid.com/favicon.ico" height="20" alt=""><img src="https://img.shields.io/badge/My%20Website-111111?style=flat-square" alt="My Website"></a>
+  <a href="https://www.samfaid.com/"><img src="https://www.samfaid.com/favicon.ico" height="20" alt=""><img src="https://img.shields.io/badge/My%20Website-111111?style=flat-square" height="20" alt="My Website"></a>
   <a href="https://www.linkedin.com/in/samfaid/"><img src="./assets/linkedin-badge.svg" height="20" alt="LinkedIn"></a>
-  <a href="https://github.com/Xzese?tab=repositories"><img src="https://img.shields.io/github/stars/Xzese?style=flat-square&logo=github&label=Stars&affiliations=OWNER" alt="Total GitHub stars"></a>
-  <a href="https://github.com/Xzese?tab=followers"><img src="https://img.shields.io/github/followers/Xzese?style=flat-square&logo=github&label=Followers" alt="GitHub followers"></a>
+  <a href="https://github.com/Xzese?tab=repositories"><img src="https://img.shields.io/github/stars/Xzese?style=flat-square&logo=github&label=Stars&affiliations=OWNER" height="20" alt="Total GitHub stars"></a>
+  <a href="https://github.com/Xzese?tab=followers"><img src="https://img.shields.io/github/followers/Xzese?style=flat-square&logo=github&label=Followers" height="20" alt="GitHub followers"></a>
   <a href="https://snapheaven.co.uk/"><img src="./assets/snapheaven-badge.svg" height="20" alt="Snap Heaven"></a>
 </p>
 
