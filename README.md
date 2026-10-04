@@ -44,7 +44,7 @@ A private, on-device AI chat application built with SwiftUI, SwiftData, and Appl
 ### Snap Heaven
 
 <a href="https://www.samfaid.com/snap-heaven/">
-  <img align="right" src="https://www.samfaid.com/assets/images/snap-heaven-watt-bar-card.webp" width="180" alt="Snap Heaven photobooth at Watt Bar">
+  <img align="right" src="https://www.snapheaven.co.uk/assets/images/snapheaven-logo-rounded.webp" width="150" alt="Snap Heaven">
 </a>
 
 I co-founded and build the technology behind Snap Heaven, a permanent photobooth business for hospitality venues. My work covers kiosk software, payments, cameras, printing, cloud services, monitoring, deployment, and the physical guest experience.
