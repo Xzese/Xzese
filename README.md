@@ -21,11 +21,11 @@ I like to take products from an initial idea through architecture, development, 
 
 ## What I build
 
-### AudioBookEcho
-
 <a href="https://www.samfaid.com/audiobookecho/">
   <img align="right" src="https://www.samfaid.com/assets/images/audiobookecho.webp" width="150" alt="AudioBookEcho">
 </a>
+
+### AudioBookEcho
 
 A privacy-first audiobook player for iPhone, iPad, and Apple Watch. It is designed around user-owned audio, offline playback, local library management, and a native Apple-platform experience.
 
@@ -34,11 +34,11 @@ A privacy-first audiobook player for iPhone, iPad, and Apple Watch. It is design
 <br clear="right">
 <br>
 
-### Saventia AI
-
 <a href="https://www.samfaid.com/saventia-ai/">
   <img align="right" src="https://www.samfaid.com/assets/images/saventia.webp" width="150" alt="Saventia AI">
 </a>
+
+### Saventia AI
 
 A private, on-device AI chat application built with SwiftUI, SwiftData, and Apple's Foundation Models. Conversations and model processing stay on the user's device.
 
@@ -47,11 +47,11 @@ A private, on-device AI chat application built with SwiftUI, SwiftData, and Appl
 <br clear="right">
 <br>
 
-### Snap Heaven
-
 <a href="https://www.samfaid.com/snap-heaven/">
   <img align="right" src="https://www.snapheaven.co.uk/assets/images/snapheaven-logo-rounded.webp" width="150" alt="Snap Heaven">
 </a>
+
+### Snap Heaven
 
 I co-founded and build the technology behind Snap Heaven, a permanent photobooth business for hospitality venues. My work covers kiosk software, payments, cameras, printing, cloud services, monitoring, deployment, and the physical guest experience.
 
