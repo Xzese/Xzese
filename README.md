@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://www.samfaid.com/">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+    <img src="https://www.samfaid.com/favicon.ico" height="28" alt="">
+    <img src="https://img.shields.io/badge/My%20Website-111111?style=for-the-badge" alt="My Website">
   </a>
   <a href="https://www.linkedin.com/in/samfaid/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -12,6 +13,7 @@
     <img src="https://img.shields.io/github/followers/Xzese?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
   </a>
   <a href="https://snapheaven.co.uk/">
+    <img src="https://www.snapheaven.co.uk/favicon.ico" height="28" alt="">
     <img src="https://img.shields.io/badge/Snap%20Heaven-D27C9D?style=for-the-badge" alt="Snap Heaven">
   </a>
 </p>
