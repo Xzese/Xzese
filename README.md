@@ -33,7 +33,6 @@ A privacy-first audiobook player for iPhone, iPad, and Apple Watch. It is design
 [Learn more on samfaid.com](https://www.samfaid.com/audiobookecho/)
 
 <br clear="right">
-<br>
 
 <h3>
   Saventia AI
@@ -47,7 +46,6 @@ A private, on-device AI chat application built with SwiftUI, SwiftData, and Appl
 [Learn more on samfaid.com](https://www.samfaid.com/saventia-ai/)
 
 <br clear="right">
-<br>
 
 <h3>
   Snap Heaven
@@ -61,7 +59,6 @@ I co-founded and build the technology behind Snap Heaven, a permanent photobooth
 [Visit Snap Heaven](https://snapheaven.co.uk/)
 
 <br clear="right">
-<br>
 
 ## Public repositories
 
