@@ -1,23 +1,23 @@
-# Hi, I'm Sam Faid
-
-Software developer in the UK. I build privacy-first apps, developer tools, automation, local AI systems, and real-world products.
-
-I like to take products from an initial idea through architecture, development, testing, deployment, and long-term support. My work ranges from native Apple apps and local AI to Python automation, Cloudflare systems, MCP tooling, and the software behind physical products.
-
-<p>
+<p align="center">
   <a href="https://www.samfaid.com/">
-    <img src="https://img.shields.io/badge/Website-samfaid.com-111111?style=flat-square" alt="Website">
+    <img src="https://img.shields.io/badge/samfaid.com-111111?style=flat-square&logo=safari&logoColor=white" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/samfaid/">
     <img src="https://img.shields.io/badge/LinkedIn-Sam%20Faid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Xzese?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Xzese?style=flat-square&affiliations=OWNER" alt="Total GitHub stars">
+    <img src="https://img.shields.io/github/stars/Xzese?style=flat-square&logo=github&label=Stars&affiliations=OWNER" alt="Total GitHub stars">
   </a>
   <a href="https://snapheaven.co.uk/">
-    <img src="https://img.shields.io/badge/Snap%20Heaven-Founder--builder-222222?style=flat-square" alt="Snap Heaven">
+    <img src="https://img.shields.io/badge/Snap%20Heaven-Co--founder-222222?style=flat-square" alt="Snap Heaven">
   </a>
 </p>
+
+# Hi, I'm Sam Faid
+
+Software developer in the UK. I build privacy-first apps, developer tools, automation, local AI systems, and real-world products.
+
+I like to take products from an initial idea through architecture, development, testing, deployment, and long-term support. My work ranges from native Apple apps and local AI to Python automation, Cloudflare systems, MCP tooling, and the software behind physical products.
 
 ## What I build
 
@@ -43,16 +43,15 @@ I co-founded and build the technology behind Snap Heaven, a permanent photobooth
 
 | Project | Summary | Main technologies |
 | --- | --- | --- |
-| [CodeTally](https://github.com/Xzese/CodeTally) | Local desktop dashboard for repository metrics, source/test line history, pull requests, issues, releases, and GitHub activity. | Tauri 2, React, TypeScript, Rust, SQLite |
-| [email-mcp-for-cloudflare-workers](https://github.com/Xzese/email-mcp-for-cloudflare-workers) | Self-hosted remote MCP server for Gmail, Outlook, iCloud, and standard IMAP/SMTP accounts. | Cloudflare Workers, TypeScript, MCP, KV |
-| [arr-mcp](https://github.com/Xzese/arr-mcp) | One MCP interface for Radarr, Sonarr, Lidarr, Prowlarr, Readarr, Overseerr, and Bazarr, with orchestration and a local dashboard. | Python, FastMCP, React, Tauri |
 | [ai-quote-image-pipeline](https://github.com/Xzese/ai-quote-image-pipeline) | Local-first pipeline that uses an LLM to create image prompts and ComfyUI to generate social-media artwork. | Python, LM Studio, ComfyUI |
 | [cloudflare-facebook-oauth-worker](https://github.com/Xzese/cloudflare-facebook-oauth-worker) | Self-hosted Facebook OAuth token service designed for private deployments on Cloudflare. | Cloudflare Workers, Node.js, KV |
-| [SwiftChangeView](https://github.com/Xzese/SwiftChangeView) | Lightweight SwiftUI component for What's New and changelog screens backed by JSON. | Swift, SwiftUI |
-| [Sonarr-Delete-Watched-Episodes](https://github.com/Xzese/Sonarr-Delete-Watched-Episodes) | Removes watched Plex or Jellyfin episodes from Sonarr after configurable retention rules. | Python, Sonarr, Plex, Jellyfin |
-| [Smart-Display-App](https://github.com/Xzese/Smart-Display-App) | Smart display with time, weather, and Instagram follower information. | Python, Facebook Graph API, Weather API |
+| [CodeTally](https://github.com/Xzese/CodeTally) | Local desktop dashboard for repository metrics, source/test line history, pull requests, issues, releases, and GitHub activity. | Tauri 2, React, TypeScript, Rust, SQLite |
+| [email-mcp-for-cloudflare-workers](https://github.com/Xzese/email-mcp-for-cloudflare-workers) | Self-hosted remote MCP server for Gmail, Outlook, iCloud, and standard IMAP/SMTP accounts. | Cloudflare Workers, TypeScript, MCP, KV |
 | [Local-Facebook-OAuth-helper](https://github.com/Xzese/Local-Facebook-OAuth-helper) | Local authentication server for Facebook and Instagram Graph API workflows. | Python, Facebook Graph API, OAuth |
 | [Post_To_Instagram](https://github.com/Xzese/Post_To_Instagram) | Automates image publishing to Instagram Business accounts using the Graph API and S3-compatible storage. | Python, Instagram Graph API, S3 / R2 |
+| [Smart-Display-App](https://github.com/Xzese/Smart-Display-App) | Smart display with time, weather, and Instagram follower information. | Python, Facebook Graph API, Weather API |
+| [Sonarr-Delete-Watched-Episodes](https://github.com/Xzese/Sonarr-Delete-Watched-Episodes) | Removes watched Plex or Jellyfin episodes from Sonarr after configurable retention rules. | Python, Sonarr, Plex, Jellyfin |
+| [SwiftChangeView](https://github.com/Xzese/SwiftChangeView) | Lightweight SwiftUI component for What's New and changelog screens backed by JSON. | Swift, SwiftUI |
 
 ## Technologies
 
@@ -77,8 +76,3 @@ If you find one of my projects useful or want to support continued development:
   <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=samfaid&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="235" alt="Buy me a coffee">
 </a>
 
-## Links
-
-- [Website](https://www.samfaid.com/)
-- [LinkedIn](https://www.linkedin.com/in/samfaid/)
-- [All public repositories](https://github.com/Xzese?tab=repositories)
